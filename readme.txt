@@ -1,4 +1,7 @@
 
+This is a fork of https://github.com/kc8pnd/MobHealth
+It was forked to solve a bug - https://github.com/kc8pnd/MobHealth/issues/2
+
 	Name:		MobHealth2
 	Version:	2.6
 	Author:		Wyv (wyv@wp.pl)
