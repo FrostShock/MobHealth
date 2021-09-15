@@ -187,7 +187,7 @@ local function MobHealth_Display(currentPct, index)
 				maxhp = (100 * lTargetData.PPP) + 0.5;
 			end
 			if ( currentPct ) then
-				text = string.format("%d / %d", (currentPct * lTargetData.PPP) + 0.5, maxhp);
+				text = string.format("%d", (currentPct * lTargetData.PPP) + 0.5);
 			else
 				text = string.format("??? / %d", maxhp);
 			end
